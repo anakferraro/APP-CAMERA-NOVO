@@ -1,7 +1,6 @@
 App Câmera Profissional
 
-(<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/d83690e0-c3fe-430b-b9b2-cc2f1928a46f" />
-)
+(<img width="250" alt="image" src="https://github.com/user-attachments/assets/d83690e0-c3fe-430b-b9b2-cc2f1928a46f" />)
 
 
 ---
@@ -83,19 +82,15 @@ Demonstração visual
 
 * Alternar câmera e tirar foto:
 
-(<img width="1178" height="304" alt="image" src="https://github.com/user-attachments/assets/98f59069-be6f-4175-90a6-b89d336fb439" />
-)
+(<img width="250" alt="image" src="https://github.com/user-attachments/assets/98f59069-be6f-4175-90a6-b89d336fb439" />)
 
 * Galeria de fotos:
 
-(<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/006ea6d9-afd4-41af-abd8-a70e93148af8" />
-)
+(<img width="250" alt="image" src="https://github.com/user-attachments/assets/006ea6d9-afd4-41af-abd8-a70e93148af8" />)
 
 * Preview da última foto tirada:
 
-(<img width="1179" height="1093" alt="image" src="https://github.com/user-attachments/assets/b031e003-132f-42b2-8b85-dd436e350444" />
-)
-
+(<img width="250" alt="image" src="https://github.com/user-attachments/assets/b031e003-132f-42b2-8b85-dd436e350444" />)
 ---
 
 Observações
