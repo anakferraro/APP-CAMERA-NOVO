@@ -1,7 +1,8 @@
 App Câmera Profissional
 
-![App Screenshot](./assets/screenshot.png)
-*Exemplo da tela da câmera*
+![App Screenshot](<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/d83690e0-c3fe-430b-b9b2-cc2f1928a46f" />
+)
+
 
 ---
 
@@ -17,6 +18,9 @@ O app permite:
 * Visualizar **preview da última foto tirada**
 * Navegar para uma **galeria de fotos**
 * Layout moderno com **botões flutuantes estilo app real**
+* Visualizar fotos salvas na galeria  
+* Excluir fotos individualmente
+* Excluir todas as fotos de uma vez
 
 ---
 
@@ -79,15 +83,18 @@ Demonstração visual
 
 * Alternar câmera e tirar foto:
 
-![GIF Alternar Câmera](./assets/take_photo.gif)
+![GIF Alternar Câmera](<img width="1178" height="304" alt="image" src="https://github.com/user-attachments/assets/98f59069-be6f-4175-90a6-b89d336fb439" />
+)
 
 * Galeria de fotos:
 
-![GIF Galeria](./assets/gallery.gif)
+![GIF Galeria](<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/006ea6d9-afd4-41af-abd8-a70e93148af8" />
+)
 
 * Preview da última foto tirada:
 
-![GIF Preview](./assets/preview.gif)
+![GIF Preview](<img width="1179" height="1093" alt="image" src="https://github.com/user-attachments/assets/b031e003-132f-42b2-8b85-dd436e350444" />
+)
 
 ---
 
