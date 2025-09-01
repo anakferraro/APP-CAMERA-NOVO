@@ -1,5 +1,4 @@
-
- App Câmera Profissional
+App Câmera Profissional
 
 ![App Screenshot](./assets/screenshot.png)
 *Exemplo da tela da câmera*
@@ -13,12 +12,15 @@ Este é um **aplicativo de câmera móvel** desenvolvido com **React Native** e 
 O app permite:
 
 * Tirar fotos com **câmera frontal ou traseira**
+* Alternar **flash**
 * Salvar fotos localmente usando **AsyncStorage**
 * Visualizar **preview da última foto tirada**
 * Navegar para uma **galeria de fotos**
 * Layout moderno com **botões flutuantes estilo app real**
 
 ---
+
+Tecnologias utilizadas
 
 | Tecnologia   | Uso                           |
 | ------------ | ----------------------------- |
@@ -29,10 +31,11 @@ O app permite:
 | AsyncStorage | Armazenamento local das fotos |
 | Ionicons     | Ícones para interface         |
 
+---
 
 
 
-
+---
 Funcionalidades
 
 1. **Alternar câmera:** Troca entre frontal e traseira com um botão flutuante.
@@ -44,34 +47,35 @@ Funcionalidades
 
 ---
 
- Como executar
+Como executar
 
 1. Clone o repositório:
 
-
+```bash
 git clone <URL_DO_REPOSITORIO>
 cd <NOME_DO_PROJETO>
-
+```
 
 2. Instale dependências:
 
-
+```bash
 npm install
 
+```
 
 3. Execute o app:
 
-
+```bash
 npx expo start
-
+```
 
 4. Abra no **Expo Go** no seu dispositivo ou emulador.
 
 ---
 
- Demonstração visual
+Demonstração visual
 
-
+> Substitua os GIFs abaixo pelos seus próprios, mostrando a câmera e a galeria em ação.
 
 * Alternar câmera e tirar foto:
 
@@ -87,10 +91,14 @@ npx expo start
 
 ---
 
- Observações
+Observações
 
 * Fotos são **armazenadas localmente**, não enviadas para nenhum servidor.
 * Layout **responsivo**, ideal para smartphones.
+
+
+---
+
 
 
 
