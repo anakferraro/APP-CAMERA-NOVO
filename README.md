@@ -24,16 +24,22 @@ Tecnologias utilizadas
 
 Tecnologia    Uso                           
  
-React Native  Framework principal           
-Expo          Desenvolvimento e build       
-Expo Camera   Captura de fotos              
-Expo Router   Navegação entre telas         
-AsyncStorage  Armazenamento local das fotos 
-Ionicons      Ícones para interface
+React Native   Framework principal           
+
+Expo           Desenvolvimento e build       
+
+Expo Camera    Captura de fotos              
+
+Expo Router    Navegação entre telas         
+
+AsyncStorage   Armazenamento local das fotos 
+
+Ionicons       Ícones para interface
 
 
 
-🎯 Funcionalidades
+
+Funcionalidades
 
 1. **Alternar câmera:** Troca entre frontal e traseira com um botão flutuante.
 2. **Flash:** Ativa ou desativa o flash da câmera.
