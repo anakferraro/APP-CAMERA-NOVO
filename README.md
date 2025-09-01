@@ -7,7 +7,7 @@ App Câmera Profissional
 
 Sobre o projeto
 
-Este é um **aplicativo de câmera móvel** desenvolvido com **React Native** e **Expo**, com melhorias de funcionalidades e interface profissional.
+Este é um aplicativo de câmera móvel desenvolvido com React Native e Expo.
 
 O app permite:
 
@@ -95,8 +95,8 @@ Demonstração visual
 
 Observações
 
-* Fotos são **armazenadas localmente**, não enviadas para nenhum servidor.
-* Layout **responsivo**, ideal para smartphones.
+* Fotos são armazenadas localmente, não enviadas para nenhum servidor.
+* Layout responsivo, ideal para smartphones.
 
 
 ---
