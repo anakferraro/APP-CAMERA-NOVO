@@ -20,21 +20,15 @@ O app permite:
 
 ---
 
-Tecnologias utilizadas
+| Tecnologia   | Uso                           |
+| ------------ | ----------------------------- |
+| React Native | Framework principal           |
+| Expo         | Desenvolvimento e build       |
+| Expo Camera  | Captura de fotos              |
+| Expo Router  | Navegação entre telas         |
+| AsyncStorage | Armazenamento local das fotos |
+| Ionicons     | Ícones para interface         |
 
-Tecnologia    Uso                           
- 
-React Native   Framework principal           
-
-Expo           Desenvolvimento e build       
-
-Expo Camera    Captura de fotos              
-
-Expo Router    Navegação entre telas         
-
-AsyncStorage   Armazenamento local das fotos 
-
-Ionicons       Ícones para interface
 
 
 
