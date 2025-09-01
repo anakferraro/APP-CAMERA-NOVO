@@ -5,7 +5,6 @@ App Câmera Profissional
 
 ---
 
-Sobre o projeto
 
 Este é um aplicativo de câmera móvel desenvolvido com React Native e Expo.
 
