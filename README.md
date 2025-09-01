@@ -10,12 +10,12 @@ Este é um aplicativo de câmera móvel desenvolvido com React Native e Expo.
 
 O app permite:
 
-* Tirar fotos com **câmera frontal ou traseira**
-* Alternar **flash**
-* Salvar fotos localmente usando **AsyncStorage**
-* Visualizar **preview da última foto tirada**
-* Navegar para uma **galeria de fotos**
-* Layout moderno com **botões flutuantes estilo app real**
+* Tirar fotos com câmera frontal ou traseira
+* Alternar flash
+* Salvar fotos localmente usando AsyncStorage
+* Visualizar preview da última foto tirada
+* Navegar para uma galeria de fotos
+* Layout moderno com botões flutuantes estilo app real
 * Visualizar fotos salvas na galeria  
 * Excluir fotos individualmente
 * Excluir todas as fotos de uma vez
