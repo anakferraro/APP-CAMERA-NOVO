@@ -1,4 +1,4 @@
-App Câmera Profissional
+App Câmera 
 
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/d83690e0-c3fe-430b-b9b2-cc2f1928a46f" />
 
